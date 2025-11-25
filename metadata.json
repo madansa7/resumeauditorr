@@ -1,0 +1,5 @@
+{
+  "name": "IntelliResume: AI Resume Analyzer & Builder",
+  "description": "An intelligent tool to analyze your resume against job descriptions, provide actionable feedback, and generate an enhanced, ATS-friendly version using the Gemini API.",
+  "requestFramePermissions": []
+}
